@@ -21,7 +21,7 @@
 I am a highly motivated Full-Stack Web Developer, currently completing the <b>IBM Full-Stack JavaScript Developer Professional Certificate</b>. I have hands-on experience in <b>React.js, Node.js, Express, MongoDB, and RESTful APIs</b>, with foundational knowledge of <b>PHP and Laravel</b>. I focus on building robust and scalable web applications, bridging frontend and backend to deliver engaging and user-centric experiences.
 </p>
 <p>
-I also develop desktop applications using <b>Python (Tkinter)</b> and have solid knowledge of <b>Data Structures, Algorithms, OOP, and MySQL</b>. Graduate of <b>We School for Applied Technology (Sheikh Zayed)</b>, always learning and contributing to innovative projects.
+I have solid knowledge of <b>Data Structures, Algorithms, OOP, and MySQL</b>. Graduate of <b>We School for Applied Technology (Sheikh Zayed)</b>, always learning and contributing to innovative projects.
 </p>
 
 <h3>🚀 Open Source Projects</h3>
